@@ -1,1 +1,17 @@
-
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: content-box;
+}
+.parent{
+    padding: 2rem;
+    background-color: #73FF08;
+}
+.childcomponent1{
+    padding: 2rem;
+    background-color: #CE5A19;
+}
+.childcomponent2{
+    padding: 2rem;
+    background-color: #F7CC00;
+}
